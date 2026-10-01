@@ -1,0 +1,6 @@
+{
+  "name": "GoodStore — Modern Africa 2026",
+  "description": "L'excellence de la mode congolaise moderne et marketplace basée à Bukavu, Sud-Kivu. Collections, billetterie, annonces et professionnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
